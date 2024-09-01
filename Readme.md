@@ -10,12 +10,12 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Chirag Saini** - 2021UCS1564 - [@USERNAME](https://github.com/ChiragSaini03)
+- **Aditya Giri** - 2021UCS1519 - [@USERNAME](https://github.com/USERNAME)
+- **Rohit Kumar Shaw** - 2021UCS1523 - [@USERNAME](https://github.com/USERNAME)
+- **Khushi Jain** - 2021UCS1506 - [@USERNAME](https://github.com/USERNAME)
+- **Navneet Kumar** - 2021UCS1576 - [@USERNAME](https://github.com/USERNAME)
+- **Mayank Tomar** - 2021UCS1534 - [@USERNAME](https://github.com/USERNAME)
 
 ## Project Links
 
