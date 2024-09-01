@@ -4,18 +4,18 @@ This README provides an overview of the project, including team details, relevan
 
 ## Team Details
 
-**Team Name:** TEAM_NAME_HERE
+**Team Name:** Dev Dragons
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** [@ChiragSaini03](https://github.com/ChiragSaini03)
 
 **Team Members:**
 
-- **Chirag Saini** - 2021UCS1564 - [@USERNAME](https://github.com/ChiragSaini03)
-- **Aditya Giri** - 2021UCS1519 - [@USERNAME](https://github.com/USERNAME)
-- **Rohit Kumar Shaw** - 2021UCS1523 - [@USERNAME](https://github.com/USERNAME)
-- **Khushi Jain** - 2021UCS1506 - [@USERNAME](https://github.com/USERNAME)
-- **Navneet Kumar** - 2021UCS1576 - [@USERNAME](https://github.com/USERNAME)
-- **Mayank Tomar** - 2021UCS1534 - [@USERNAME](https://github.com/USERNAME)
+- **Chirag Saini** - 2021UCS1564 - [@ChiragSaini03](https://github.com/ChiragSaini03)
+- **Aditya Giri** - 2021UCS1519 - [@Aditya-giri03](https://github.com/Aditya-giri03)
+- **Rohit Kumar Shaw** - 2021UCS1523 - [@RohitShaw340](https://github.com/RohitShaw340)
+- **Khushi Jain** - 2021UCS1506 - [@khushijain8](https://github.com/khushijain8)
+- **Navneet Kumar** - 2021UCS1576 - [@Navneet9968](https://github.com/Navneet9968)
+- **Mayank Tomar** - 2021UCS1534 - [@0Mayank](https://github.com/0Mayank)
 
 ## Project Links
 
