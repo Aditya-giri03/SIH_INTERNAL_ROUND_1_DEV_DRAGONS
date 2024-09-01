@@ -19,9 +19,8 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **Internal Presentation:** [Internal Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **Internal Presentation:** [Internal Presentation](files/Internal_PPT_DEV_DRAGONS.pdf)
 - **Final SIH Presentation:** [Final SIH Presentation](files/SIH_PPT_DEV_DRAGONS.pdf)
 - **Video Demonstration:** [Watch Video](https://youtu.be/5sPn4VxfPmY)
 - **Live Deployment:** [View Deployment - APK Link](https://drive.google.com/file/d/141MFWoDTh7W8NHhPfxu9pDTsnZ3dWDQj/view?usp=sharing)
 - **Source Code:** [GitHub Repository](code)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
