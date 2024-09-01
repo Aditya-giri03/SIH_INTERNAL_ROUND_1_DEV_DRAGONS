@@ -15,7 +15,7 @@ This README provides an overview of the project, including team details, relevan
 - **Rohit Kumar Shaw** - 2021UCS1523 - [@RohitShaw340](https://github.com/RohitShaw340)
 - **Khushi Jain** - 2021UCS1506 - [@khushijain8](https://github.com/khushijain8)
 - **Navneet Kumar** - 2021UCS1576 - [@Navneet9968](https://github.com/Navneet9968)
-- **Mayank Tomar** - 2021UCS1534 - [@0Mayank](https://github.com/0Mayank)
+- **Mayank Tomar** - 2021UCS1538 - [@0Mayank](https://github.com/0Mayank)
 
 ## Project Links
 
